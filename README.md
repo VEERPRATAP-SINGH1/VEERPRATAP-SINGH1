@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/veerpratap-singh-97822024b)
 [![Website](https://img.shields.io/badge/ZAEVIAN-FF6B35?style=for-the-badge&logo=globe&logoColor=white)](https://zaevian.com)
 [![GitHub followers](https://img.shields.io/github/followers/VEERPRATAP-SINGH1?label=Follow&style=for-the-badge&color=58a6ff)](https://github.com/VEERPRATAP-SINGH1)
-[![Email](https://img.shields.io/badge/Email-veerpratap@zaevian.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veerpratapsingh-ceo@zaevian.com)
+[![Email](https://img.shields.io/badge/Email-veerpratapsingh-ceo@zaevian.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veerpratapsingh-ceo@zaevian.com)
 
 </div>
 
